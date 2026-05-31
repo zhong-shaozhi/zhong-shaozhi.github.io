@@ -1,4 +1,41 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
-  <rect width="64" height="64" rx="12" fill="#16a34a"/>
-  <text x="32" y="48" font-size="40" text-anchor="middle" font-family="Apple Color Emoji, Segoe UI Emoji, Noto Color Emoji, sans-serif">🐢</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <!-- Very pale green background, large rounded corners -->
+  <rect width="200" height="200" rx="44" fill="#f0f7ee"/>
+
+  <!-- Turtle silhouette -->
+  <g fill="#1a1a1e">
+    <!-- Shell dome -->
+    <ellipse cx="107" cy="88" rx="47" ry="36"/>
+    <!-- Body underside -->
+    <ellipse cx="107" cy="111" rx="53" ry="21"/>
+    <!-- Head -->
+    <circle cx="43" cy="100" r="15"/>
+    <!-- Neck (bridges head and body) -->
+    <path d="M 51 90 C 57 86 70 88 72 90 L 72 112 C 70 114 57 115 51 111 Z"/>
+    <!-- Tail -->
+    <path d="M 154 105 C 162 100 170 105 168 110 C 166 117 158 116 154 112 Z"/>
+    <!-- Front legs -->
+    <ellipse cx="80"  cy="132" rx="10.5" ry="14" transform="rotate(-13 80  132)"/>
+    <ellipse cx="97"  cy="136" rx="10.5" ry="14" transform="rotate(-5  97  136)"/>
+    <!-- Back legs -->
+    <ellipse cx="117" cy="136" rx="10.5" ry="14" transform="rotate(5   117 136)"/>
+    <ellipse cx="134" cy="132" rx="10.5" ry="14" transform="rotate(13  134 132)"/>
+  </g>
+
+  <!-- Shell segment dividers (cut-out in background color) -->
+  <g stroke="#f0f7ee" stroke-width="3.5" fill="none" stroke-linecap="round">
+    <!-- Center vertical -->
+    <line x1="107" y1="56" x2="107" y2="93"/>
+    <!-- Upper-left diagonal -->
+    <line x1="79"  y1="68" x2="104" y2="92"/>
+    <!-- Upper-right diagonal -->
+    <line x1="135" y1="68" x2="110" y2="92"/>
+    <!-- Lower-left -->
+    <line x1="65"  y1="96" x2="100" y2="101"/>
+    <!-- Lower-right -->
+    <line x1="149" y1="96" x2="114" y2="101"/>
+  </g>
+
+  <!-- Eye -->
+  <circle cx="37" cy="96" r="4" fill="#f0f7ee"/>
 </svg>
