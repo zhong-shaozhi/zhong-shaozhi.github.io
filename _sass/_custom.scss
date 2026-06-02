@@ -45,12 +45,14 @@ code, pre, kbd, samp {
 
 // Footer attribution for banner image
 .banner-credit {
-  color: var(--global-text-color-light);
+  color: var(--global-footer-text-color);
+  opacity: 0.75;
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
   font-size: 0.72rem;
 
   a {
-    color: var(--global-text-color-light);
+    color: var(--global-footer-link-color);
+    opacity: 0.75;
     text-decoration: underline;
   }
 }
