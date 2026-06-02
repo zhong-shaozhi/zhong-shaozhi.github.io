@@ -28,6 +28,33 @@ code, pre, kbd, samp {
   font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace;
 }
 
+// Homepage banner
+.site-banner {
+  width: 100%;
+  height: 250px;
+  overflow: hidden;
+
+  img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center 30%;
+    display: block;
+  }
+}
+
+// Footer attribution for banner image
+.banner-credit {
+  color: var(--global-text-color-light);
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  font-size: 0.72rem;
+
+  a {
+    color: var(--global-text-color-light);
+    text-decoration: underline;
+  }
+}
+
 // CV location: use compact sans-serif and allow wrapping to avoid overlap
 p.location {
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
