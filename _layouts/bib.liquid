@@ -47,7 +47,6 @@
 
   <!-- Entry bib key -->
   <div id="{{ entry.key }}" class="{% if site.enable_publication_thumbnails %}col-sm-8{% else %}col-sm-10{% endif %}">
-
     {% if entry.language == 'zh' and entry.zh_citation %}
       <!-- Chinese citation block -->
       <div class="periodical" style="margin-bottom: 0.25rem;">{{ entry.zh_citation }}</div>
@@ -201,7 +200,6 @@
       <div class="periodical">
         {{ entry.note | strip }}
       </div>
-
     {% endif %}
 
     <!-- Links/Buttons -->
