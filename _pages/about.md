@@ -28,3 +28,5 @@ latest_posts:
 ---
 
 Hello! I am Shaozhi Zhong, a PhD student in the [Department of Economics](https://www.umass.edu/economics/) at the University of Massachusetts Amherst. I try to understand the world as a whole, with research interests spanning political economy of money and finance, international and comparative political economy, Marxian economics, and the history of economic thought.
+
+My current research centers on the movement of capital at the world scale — its circulation, fixation, and dissolution across different institutional contexts — drawing on Marx's analysis of capital's metamorphoses and asking how distinct political-economic structures mediate these processes to produce divergent outcomes. Methodologically, I work within a dialectical and historical materialist framework while remaining open to analytical tools from across the social sciences, guided by the principle that methods should serve the research problem rather than the other way around.
