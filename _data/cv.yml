@@ -52,12 +52,10 @@ cv:
           - "Undergrad research advisor: Dr. Zhongyang Chen"
 
     Publications:
-      - title: "生产关系的时间性衔接——王亚南的洞见"
-        authors:
-          - 钟劭之
-        publisher: 中国社会经济史研究
+      - language: zh
+        zh_citation: "钟劭之（待刊）．《生产关系的时间性衔接——王亚南的洞见》，《中国社会经济史研究》。"
         releaseDate: Forthcoming
-        summary: "Zhong, Shaozhi. Forthcoming. \"Temporary Articulation of Modes of Production: Insights From Wang Ya'nan,\" Journal of Chinese Social and Economic History."
+        summary: "Zhong, Shaozhi. Forthcoming. \"Temporary Articulation of Modes of Production: Insights From Wang Ya'nan,\" *Journal of Chinese Social and Economic History*."
 
       - title: "China and Marxist Political Economy Confronting World Capitalism: Revisiting the 'Social Nature' Debate of the 1930s-1940s"
         authors:
@@ -67,13 +65,10 @@ cv:
         releaseDate: 2025
         summary: "Vol. 40, pp. 19–36."
 
-      - title: "基于技能的异质性劳动理论的政治经济学审视：从人力资本、复杂劳动到组织整合"
-        authors:
-          - 高岭
-          - 钟劭之
-        publisher: 经济思想史学刊
+      - language: zh
+        zh_citation: "高岭、钟劭之（2024）．《基于技能的异质性劳动理论的政治经济学审视：从人力资本、复杂劳动到组织整合》，《经济思想史学刊》，02：59–99。"
         releaseDate: 2024
-        summary: "第02期，第59–99页。Gao, Ling and Zhong, Shaozhi. 2024. \"A Political Economic Review of Skill-Based Heterogeneous Labor Theory: From Human Capital, Complex Labor to Organizational Integration,\" Bulletin of the History of Economic Thought, 02: 59–99."
+        summary: "Gao, Ling and Zhong, Shaozhi. 2024. \"A Political Economic Review of Skill-Based Heterogeneous Labor Theory: From Human Capital, Complex Labor to Organizational Integration,\" *Bulletin of the History of Economic Thought*, 02: 59–99."
 
     Research Experience:
       - company: "Textbook Development Project, Lingnan College, SYSU"
