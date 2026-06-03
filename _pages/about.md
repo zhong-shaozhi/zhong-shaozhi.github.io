@@ -27,4 +27,4 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hello! I am Shaozhi Zhong, a PhD student in the [Department of Economics](https://www.umass.edu/economics/) at the University of Massachusetts Amherst. I try to understand the world as a whole, with research interests spanning political economy in money and finance, international and comparative political economy, Marxian economics, and the history of economic thought.
+Hello! I am Shaozhi Zhong, a PhD student in the [Department of Economics](https://www.umass.edu/economics/) at the University of Massachusetts Amherst. I try to understand the world as a whole, with research interests spanning political economy of money and finance, international and comparative political economy, Marxian economics, and the history of economic thought.

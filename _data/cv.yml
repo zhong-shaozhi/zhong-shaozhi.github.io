@@ -71,44 +71,47 @@ cv:
         summary: "Gao, Ling and Zhong, Shaozhi. 2024. \"A Political Economic Review of Skill-Based Heterogeneous Labor Theory: From Human Capital, Complex Labor to Organizational Integration,\" *Bulletin of the History of Economic Thought*, 02: 59–99."
 
     Research Experience:
-      - company: "Textbook Development Project, Lingnan College, SYSU"
-        position: Contributor
+      - company: "Lingnan College, Sun Yat-sen University"
+        position: "Contributor, Textbook Development Project"
         location: Guangzhou, China
         start_date: 2026-03
         end_date: present
+        summary: "Editor-in-Chief: Dr. Dic Lo"
         highlights:
-          - "Editor-in-Chief: Dr. Dic Lo"
-          - "Textbook: Political Economy of Development and Underdevelopment"
+          - "Textbook: *Political Economy of Development and Underdevelopment*"
           - "Authored Chapter 8: \"Uneven Development\"; Chapter 10: \"Green Transition and World Development\""
 
-      - company: "Textbook Development Project, Lingnan College, SYSU"
-        position: Contributor
+      - company: "Lingnan College, Sun Yat-sen University"
+        position: "Contributor, Textbook Development Project"
         location: Guangzhou, China
         start_date: 2024-05
         end_date: present
+        summary: "Editor-in-Chief: Dr. Dic Lo"
         highlights:
-          - "Editor-in-Chief: Dr. Dic Lo"
-          - "Textbook: In the Midst of Historical Change: An Overview of China's Economic Development from Comparative Theoretical Perspectives"
+          - "Textbook: *In the Midst of Historical Change: An Overview of China's Economic Development from Comparative Theoretical Perspectives*"
           - "Authored Chapter 1: \"Modern China, Historical Capitalism, and Socialist Direction\""
 
     Teaching Experience:
-      - company: University of Massachusetts Amherst
+      - company: "University of Massachusetts Amherst"
         position: "Teaching Assistant, Introduction to Macroeconomics"
         location: Amherst, MA, USA
         start_date: 2026-01
         end_date: 2026-05
+        summary: "Instructor: Prof. Robert Pollin"
 
-      - company: University of Massachusetts Amherst
+      - company: "University of Massachusetts Amherst"
         position: "Teaching Assistant, Intermediate Microeconomics"
         location: Amherst, MA, USA
         start_date: 2025-08
         end_date: 2025-12
+        summary: "Instructor: Dr. Jennifer Long"
 
-      - company: Renmin University of China
+      - company: "Renmin University of China"
         position: "Teaching Assistant, Advanced Microeconomics"
         location: Beijing, China
         start_date: 2024-08
         end_date: 2024-12
+        summary: "Instructor: Prof. Song Han"
 
     Skills:
       - name: Programming
