@@ -362,6 +362,8 @@ filtered_bibtex_keywords:
     abbr,
     abstract,
     additional_info,
+    language,
+    zh_citation,
     altmetric,
     annotation,
     arxiv,
