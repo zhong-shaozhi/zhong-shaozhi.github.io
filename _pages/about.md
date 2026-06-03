@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: "<span lang=\"zh\" style=\"font-family: FZXiaoBiaoSongS-R-GB, 'Source Han Serif SC', 'Noto Serif CJK SC', STSong, serif; font-size: 1.3rem; letter-spacing: 0.12em; color: #555;\">&#x9492;&#x52AD;&#x4E4B;</span>"
+subtitle: '<span lang="zh" style="font-family: FZXiaoBiaoSongS-R-GB, ''Source Han Serif SC'', ''Noto Serif CJK SC'', STSong, serif; font-size: 1.3rem; letter-spacing: 0.12em; color: #555;">&#x949F;&#x52AD;&#x4E4B;</span>'
 
 profile:
   align: right
